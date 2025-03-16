@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GeistTaros
--  I’m interested in Mashine Learning and Game Development
+- 👋 Hi, I’m GeistTaros
+-  I’m interested in Machine Learning and Game Development
 - 🌱 I’m currently learning Unity
 - I´m only a wannabee hobby Game developer ;P
 
